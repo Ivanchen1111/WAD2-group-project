@@ -142,7 +142,7 @@ body {
 
 .btn-full { width: 100%; }
 
-// Divider
+/* Divider */
 .auth-divider {
   display: flex;
   align-items: center;
@@ -187,7 +187,7 @@ body {
 .message-success { border-left: 3px solid #00ba7c; }
 .message-error   { border-left: 3px solid var(--error); }
 
-// Responsive
+/* Responsive */
 @media (max-width: 480px) {
   .auth-card { padding: 2rem 1.4rem; }
   .brand-name { font-size: 2rem; }
